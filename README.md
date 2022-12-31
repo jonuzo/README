@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JayOps
+- 👋 Hi, I’m Jo
 - 👀 I’m interested in cybersecurity & software development
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on ... TBD
